@@ -5,3 +5,4 @@ public interface GumballInterface {
     void turnCrank();
     void dispenseGumball();
 }
+//6510405300 Kritpiruch Chaiwong
